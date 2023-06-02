@@ -1,2 +1,4 @@
-package sv.com.ApiCarritoCompras.repository;public class UserRepository {
+package sv.com.ApiCarritoCompras.repository;
+
+public class UserRepository {
 }

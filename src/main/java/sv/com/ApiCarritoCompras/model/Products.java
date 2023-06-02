@@ -1,2 +1,4 @@
-package sv.com.ApiCarritoCompras.model;public class Products {
+package sv.com.ApiCarritoCompras.model;
+
+public class Products {
 }

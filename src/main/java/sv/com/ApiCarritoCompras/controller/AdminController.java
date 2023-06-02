@@ -1,2 +1,4 @@
-package sv.com.ApiCarritoCompras.controller;public class AdminController {
+package sv.com.ApiCarritoCompras.controller;
+
+public class AdminController {
 }

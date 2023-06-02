@@ -1,4 +1,4 @@
 package sv.com.ApiCarritoCompras.model;
 
-public class Buyer {
+public class User {
 }

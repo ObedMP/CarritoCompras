@@ -15,7 +15,7 @@ public class Order {
     private Integer idOrder;
 
     @ManyToOne
-    @JoinColumn(name = "iduser")
+    @JoinColumn(name = "idUser")
     private User user;
 
     @Column(name = "order_status")
